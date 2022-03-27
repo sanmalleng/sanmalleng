@@ -62,7 +62,7 @@ Whether it's joy or healing...!
 
 <br/>
 
-| <a href="https://github.com/sanmalleng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanmalleng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sanmalleng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmalleng&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sanmalleng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanmalleng&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=vue" alt="Anurag's github stats" /></a> | <a href="https://github.com/sanmalleng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmalleng&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
